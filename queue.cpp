@@ -1,5 +1,5 @@
 //QUEUE IMPLEMENTED AS A SINGLY LINKED LIST
-//unfinished interace
+//unfinished interface
 
 
 #include <iostream>
